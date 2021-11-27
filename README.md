@@ -1,4 +1,4 @@
-# wii (Where is it?)
+# wii (where is it?)
 
 Is a neovim lua plugin which takes inspiration from classic find and replace interfaces.
 
